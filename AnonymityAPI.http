@@ -1,0 +1,6 @@
+@AnonymityAPI_HostAddress = http://localhost:5088
+
+GET {{AnonymityAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

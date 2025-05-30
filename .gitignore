@@ -1,0 +1,25 @@
+﻿# Ignore Visual Studio temporary files, build results, and
+# user-specific files
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# Visual Studio working folder
+.vs/
+
+# Other common ignores
+*.log
+*.DS_Store
+# .gitignore
+appsettings.json
